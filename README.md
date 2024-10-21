@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shabose/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shabose/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shashwat1712/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shashwat1712/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shabose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabose" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shashwat1712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwat1712" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
