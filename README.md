@@ -15,11 +15,7 @@
 
 - ⚡ Fun fact **I like playing games.**
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fasishkumargouda10.medium.com%2Fhow-to-contribute-to-open-source-4eff0ce734c1&psig=AOvVaw0KJVVV8-xlPECeN2XkCjI1&ust=1729685316612000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDR-4v6oYkDFQAAAAAdAAAAABAS"></img>
-
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fasishkumargouda10.medium.com%2Fhow-to-contribute-to-open-source-4eff0ce734c1&psig=AOvVaw0KJVVV8-xlPECeN2XkCjI1&ust=1729685316612000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDR-4v6oYkDFQAAAAAdAAAAABAS" alt="Shashwat Bose GIF" width="300" />
-</p>
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fasishkumargouda10.medium.com%2Fhow-to-contribute-to-open-source-4eff0ce734c1&psig=AOvVaw0KJVVV8-xlPECeN2XkCjI1&ust=1729685316612000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDR-4v6oYkDFQAAAAAdAAAAABAS](https://miro.medium.com/v2/resize:fit:720/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
