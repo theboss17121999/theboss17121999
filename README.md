@@ -1,3 +1,5 @@
+![1_0N8CVKix7OGfBDsgh9DzrQ](https://github.com/user-attachments/assets/f0d02e94-1d9f-4ecd-9aa1-dd06fa1fda74)
+
 <h1 align="center">Hi 👋, I'm Shashwat Bose</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -14,9 +16,6 @@
 - 📄 Know about my experiences [https://theboss17121999.github.io/React_resume/](https://theboss17121999.github.io/React_resume/)
 
 - ⚡ Fun fact **I like playing games.**
-
-![1_0N8CVKix7OGfBDsgh9DzrQ](https://github.com/user-attachments/assets/f0d02e94-1d9f-4ecd-9aa1-dd06fa1fda74)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
