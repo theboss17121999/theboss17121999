@@ -17,18 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [https://theboss17121999.github.io/React_resume/](https://theboss17121999.github.io/React_resume/)
 
-- 💬 Ask me about:
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-
-
 - 📫 How to reach me **shashwatbose1712@gmail.com**
 
 - 📄 Know about my experiences [https://theboss17121999.github.io/React_resume/](https://theboss17121999.github.io/React_resume/)
