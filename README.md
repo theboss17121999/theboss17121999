@@ -1,5 +1,7 @@
 <!-- Header Section with GIF and Shaking Animation -->
-<h1 align="center" class="shake">Hi 👋, I'm Shashwat Bose</h1>
+<h1 align="center" style="display:inline-block; animation: shake 0.5s ease-in-out infinite;">
+  Hi 👋, I'm Shashwat Bose
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <!-- Adding the GIF -->
