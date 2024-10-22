@@ -1,5 +1,27 @@
 <!-- Header Section with GIF and Shaking Animation -->
-<h1 align="center" style="display:inline-block; animation: shake 0.5s ease-in-out infinite;">
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
+<h1 align="center">
   Hi 👋, I'm Shashwat Bose
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
