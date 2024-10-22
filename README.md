@@ -64,12 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theboss17121999&show_icons=true&locale=en&layout=compact" alt="theboss17121999" />
 </p>
 
-<!-- CSS for Shaking Animation -->
-h1 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
-
 @keyframes myanimation {
   from {
     color: red;
