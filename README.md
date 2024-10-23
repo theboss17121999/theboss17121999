@@ -13,7 +13,7 @@
 <!-- Projects and About Section -->
 - 🔭 I’m currently working on [SuperTicTacToe](https://theboss17121999.github.io/SuperTicTacToe/)
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://theboss17121999.github.io/React_resume/](https://theboss17121999.github.io/React_resume/)
 
